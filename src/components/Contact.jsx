@@ -6,7 +6,7 @@ export default function Contact() {
     <section id="contact" className={styles.contact}>
       <h3>Contact Me</h3>
       <p>Feel free to reach out for collaborations or just a chat!</p>
-      <p>Email: tusharpareek@example.com</p>
+      <p>Email: tusharpareek1302@gmail.com</p>
       <p>
         LinkedIn: <a href="https://linkedin.com">linkedin.com/in/tusharpareek</a>
       </p>
